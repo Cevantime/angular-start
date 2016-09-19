@@ -1,4 +1,4 @@
-pour rendre le projet fonctionnel il suffit, après un git clone, de se rendre à sa racine et d'exécuter la commande suivante :
+Pour rendre le projet fonctionnel il suffit, après un git clone, de se rendre à sa racine et d'exécuter la commande suivante :
 
     npm install
 
